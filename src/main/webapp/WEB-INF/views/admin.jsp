@@ -4,10 +4,8 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	This is only admin page!  
 </h1>
-
-<P>  The time on the server is ${serverTime}. </P>
 <a href="logout">Logout</a>
 </body>
 </html>
